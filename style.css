@@ -51,6 +51,7 @@ body {
   height: 150px;
   font-size: 16px;
   font-weight: 500;
+  font-style: italic;
   color: #444;
   background: #f1f1f1;
   border: 1px solid blueviolet;
@@ -75,8 +76,7 @@ body {
 
 
 #author{
-    font-size: 16px;
-    font-weight: 500;
-    font-style: italic;
+    font-size: 17px;
+    font-weight: 600;
     color: blueviolet;
 }
